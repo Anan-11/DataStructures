@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
+
 public class Array8 {
     public static void main(String[] args) {
        int[][] arr=new int[2][3];
